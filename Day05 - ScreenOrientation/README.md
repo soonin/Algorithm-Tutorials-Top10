@@ -6,6 +6,9 @@ Creating an Alternate  Landscape Layout
 	
  	 Author: pooya Hatami
       
+# Youtube video Link :
+ * https://youtu.be/0Pho-Uc9HzA
+      
 # Refrences
 
  * https://developer.android.com/training/index.html
